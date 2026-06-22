@@ -1,3 +1,3 @@
 # Webinar Funnel Research
 
-This project researches how webinar funnels are built from zero, sourced from 10 real practitioners: a mix of webinar-craft specialists and B2B SaaS operators. It exists because the person building this repo is applying to B2B roles and wants to translate proven webinar mechanics into a B2B SaaS context.
+This project researches how webinar funnels are built from zero and how effective of a marketing tool it is, sourced from 10 real people across different fields from webinar-craft specialists to B2B SaaS operators. These examples are going to help us understand different point of view's when comes to organising a successful webinar, one that actually convert into leads.
