@@ -2,7 +2,8 @@ Ian Faison,
 
 His agency has run podcast-to-webinar funnels for dozens of B2B SaaS brands. He's not inside one company, he's seen what works and what doesn't across many companies and audiences. That makes his perspective the most generalisable B2B SaaS view on this list, covering why webinars work for pipeline, how to structure content for a B2B buyer, and how to measure what's actually converting.
 
-His LinkedIn is a lot about ideas that he has more focused towards B2B Marketing
+His LinkedIn is a lot about ideas that is focused towards B2B Marketing
+
 
 "Have you ever thought, wow, I wish I could ask Ian questions about video podcast stuff? 
 
