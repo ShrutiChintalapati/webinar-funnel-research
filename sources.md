@@ -11,10 +11,16 @@ Where content focuses on the platform along with how beneficial webinars actuall
 
 2. Steve J Larsen — Host, Sales Funnel Radio — https://www.youtube.com/@SteveJLarsen
 
- He is a prominent internet entrepreneur, marketing strategist, and public speaker known for his expertise in offer creation, building sales funnels, and scaling businesses. He runs "Titans of Industry" where he helps entrepreneurs scale their sales online and he launched "Captalist Pig" a media company with the mission to increase America's Entrepreneurial IQ. His main selling point is that he is the "internet's marketing guru" and what makes his webinars stand out is they actaully work. Going through webinars, what makes him standout is he follows a very simple principal "Dramatic Demonstrations", a psychological framework that physically or conceptually proves a product's value in real-time. Rather than just telling an audience something works, he proves it live. He builds tension, shows the problem, and demonstrates the mechanism working to make conversions inevitable.
+He is a prominent internet entrepreneur, marketing strategist, and public speaker known for his expertise in offer creation, building sales funnels, and scaling businesses. He runs "Titans of Industry" where he helps entrepreneurs scale their sales online and he launched "Captalist Pig" a media company with the mission to increase America's Entrepreneurial IQ. His main selling point is that he is the "internet's marketing guru" and what makes his webinars stand out is that they actually work. After going through his webinars I realised what makes him standout is that he follows a very simple principal "Dramatic Demonstrations", a psychological framework that physically or conceptually proves a product's value in real-time. Rather than just telling an audience something works, he proves it live. He builds tension, shows the problem, and demonstrates the mechanism working to make conversions inevitable.
   
 3. Neil Patel — Digital marketer, frequent live webinar trainer — https://www.youtube.com/@neilpatel
+
+He is not just a New York Times bestselling author, but also the co-founder of NP Digital, and a leading force in the digital marketing arena. With an impressive track record of helping global giants like Amazon, NBC, GM, HP, and Viacom boost their revenues, Patel's influence extends far beyond the business realm. One his core strategies when comes to a successful webinar includes, intentionally reducing his raw webinar attendance by about 80% after realizing that broad topics attracted huge crowds (up to 15,000 live) but generated very few qualified leads. By focusing on hyper-specific niches, his attendee counts dropped, but the conversion rate of those attendees into actual customers skyrocketed.
+
 4. Amy Porterfield — Webinars are her entire business model — https://www.youtube.com/@AmyPorterfield
+
+
+
 5. Taki Moore — Founder, Million Dollar Coach — https://www.youtube.com/@TakiMoore
 6. Myron Golden — Business coach, "Make More Offers Challenge" webinar funnel (free content to $97 challenge to high-ticket coaching) — https://www.youtube.com/@MyronGolden
 
