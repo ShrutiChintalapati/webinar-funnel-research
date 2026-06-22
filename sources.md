@@ -1,4 +1,4 @@
-# Sources: Webinar Funnel From Zero
+# Research: Youtube
 
 ## YouTube-primary
 1. Casey Zeman — Founder, EasyWebinar — Channel - https://www.youtube.com/@CaseyZeman
