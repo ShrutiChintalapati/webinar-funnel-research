@@ -2,7 +2,7 @@ David Grieco,
 
 This choice was because Clay's "How Clay Uses Clay" weekly live webinar series is one of the most-discussed GTM content engines in B2B SaaS right now. Clay went from startup to $3.1B valuation and this webinar series was a core part of their content-led growth. Davide runs it from the execution side, which means his content is about the actual mechanics of building a B2B SaaS webinar program at a company that used it as a real growth lever. His content on LinkedIn continuously discusses how to constantly improve your webinars 
 
-LinkedInPosts
+LinkedIn Posts
  
 "Here's how we manage leads coming from demo requests, webinar registrations, IRL events, trial signups, and a billion other places (optimizing for high conversion + giving reps full context): 
 
