@@ -1,6 +1,6 @@
 # Sources: Webinar Funnel From Zero
 
-## YouTube-primary (collect transcripts)
+## YouTube-primary
 1. Casey Zeman — Founder, EasyWebinar — Channel - https://www.youtube.com/@CaseyZeman
 
 He is the founder and CEO of the popular webinar platform, EasyWebinar, a software that does both live and automated webinars. Having had more than 14k customers come through his courses and software, 
@@ -10,6 +10,9 @@ Here is the company youtube channel: https://www.youtube.com/c/easywebinar
 Where content focuses on the platform along with how beneficial webinars actually are based on your business needs.
 
 2. Steve J Larsen — Host, Sales Funnel Radio — https://www.youtube.com/@SteveJLarsen
+
+ He is a prominent internet entrepreneur, marketing strategist, and public speaker known for his expertise in offer creation, building sales funnels, and scaling businesses. He runs "Titans of Industry" where he helps entrepreneurs scale their sales online and he launched "Captalist Pig" a media company with the mission to increase America's Entrepreneurial IQ. His main selling point is the "internat marketing guru" and what makes his webinars stand out is they work. The presentations are highly effective because they rely on "Dramatic Demonstrations", a psychological framework that physically or conceptually proves a product's value in real-time. Rather than just telling an audience something works, he proves it live. He builds tension, shows the problem, and demonstrates the mechanism working to make conversions inevitable.
+  
 3. Neil Patel — Digital marketer, frequent live webinar trainer — https://www.youtube.com/@neilpatel
 4. Amy Porterfield — Webinars are her entire business model — https://www.youtube.com/@AmyPorterfield
 5. Taki Moore — Founder, Million Dollar Coach — https://www.youtube.com/@TakiMoore
