@@ -1,6 +1,6 @@
-MyronGolden,
+Myron Golden,
 
-The reason I picked him was to focus on his sales strategy an aspect important for any webinar. He hosts on Youtube live to help his audience.
+The reason I picked him was to focus on his sales strategy an aspect important for any webinar. He hosts on Youtube live to help his audience become better salesman.
 
 - https://www.youtube.com/watch?v=Xw_q4BCV1cc
 - https://www.youtube.com/watch?v=vGZlUaXHYRY&t=52s
