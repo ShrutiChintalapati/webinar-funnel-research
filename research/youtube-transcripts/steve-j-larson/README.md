@@ -1,1 +1,6 @@
- He runs "Titans of Industry" where he helps entrepreneurs scale their sales online and he launched "Captalist Pig" a media company with the mission to increase America's Entrepreneurial IQ. His main selling point is that he is the "internet's marketing guru" and what makes his webinars stand out is that they actually work. After going through his webinars I realised what makes him standout is that he follows a very simple principal "Dramatic Demonstrations", a psychological framework that physically or conceptually proves a product's value in real-time. Rather than just telling an audience something works, he proves it live. He builds tension, shows the problem, and demonstrates the mechanism working to make conversions inevitable.
+Steve J Larson, 
+
+He's the most technically detailed on funnel architecture, the wiring, sequencing, and what kills a funnel vs what scales it. He has tonnes of content on this including episode "What Destroyed My First Successful Funnel", "The Wrong Script At The Wrong Time", "What 9 Figure Businesses Ask About Funnels That 6 Figure Don't". His content bottles down to structure.
+
+https://www.youtube.com/watch?v=z0kVkn8WV5Q
+https://www.youtube.com/watch?v=ZtoX_2b6U1s
