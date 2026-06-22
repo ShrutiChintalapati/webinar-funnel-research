@@ -19,7 +19,7 @@ He is not just a New York Times bestselling author, but also the co-founder of N
 
 4. Amy Porterfield — Webinars are her entire business model — https://www.youtube.com/@AmyPorterfield
 
-
+A New York Time best selling authoer of "Two Weeks Notice" turned marketing expert, She teaches that a webinar's primary goal is not just to dump information, but to shift user mindsets and break down beliefs that hold them back.A successful webinar helps an attendee transition to a new opportunity, breakthrough, or decision.Even if attendees do not purchase, registering builds your email list with qualified leads for future offers. 
 
 5. Taki Moore — Founder, Million Dollar Coach — https://www.youtube.com/@TakiMoore
 6. Myron Golden — Business coach, "Make More Offers Challenge" webinar funnel (free content to $97 challenge to high-ticket coaching) — https://www.youtube.com/@MyronGolden
