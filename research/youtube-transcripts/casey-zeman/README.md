@@ -1,7 +1,7 @@
-1. Casey Zeman — Founder, EasyWebinar — Channel - https://www.youtube.com/@CaseyZeman
+Casey Zeman,
 
-He is the founder and CEO of the popular webinar platform, EasyWebinar, a software that does both live and automated webinars. Having had more than 14k customers come through his courses and software, 
-he’s figured out what works and what doesn’t in the way of webinars, live broadcasts and video for engagement, and how to sell better and engage stronger with your audience and customers.
+I picked him because he is someone that found a gap in webinars and made it his entire business model. Started as a YouTube video marketer, pivoted to webinars when he saw the revenue potential, he built EasyWebinar because no existing tool could do what he needed, toggle a live webinar into an automated evergreen funnel in just two clicks.
+A lot of his content is promoting his business. But his principals can still be applied outside of that.
 
-Here is the company youtube channel: https://www.youtube.com/c/easywebinar
-Where content focuses on the platform along with how beneficial webinars actually are based on your business needs.
+- https://www.youtube.com/watch?v=USNj1dqzseI
+- https://www.youtube.com/watch?v=Q2GcwpcRozU&list=PLavopx6tR5BAB2_d6pxJ4O8SjIgoyG2rA
