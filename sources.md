@@ -30,7 +30,7 @@ He is the author of “Million Dollar Coach” and creator of the Marketing Syst
 His strategy is he frames sales and webinars in a way to solve problems, rather than just "selling." His techniques aim to make your target audience actually thank you for allowing them to buy instead of the other way around.
 
 ## LinkedIn-primary (collect posts)
-7. Oana Manolache — Founder & CEO, Sequel.io — https://www.linkedin.com/in/oana-manolache/
+7. Oana Manolache — Founder & CEO, Sequel.io — https://www.linkedin.com/in/oana-m-manolache/
 8. Davide Grieco — Growth, Clay — https://www.linkedin.com/in/davidegrieco/
 9. Ian Faison — CEO, Caspian Studios — https://www.linkedin.com/in/ianfaison/
 10. Brian Hansford — VP Growth, LiveRamp — https://www.linkedin.com/in/brianhansford/
