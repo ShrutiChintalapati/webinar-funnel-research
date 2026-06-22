@@ -1,6 +1,6 @@
-# Research: Youtube
+# Research
 
-## YouTube-primary
+## YouTube
 1. Casey Zeman — Founder, EasyWebinar — Channel - https://www.youtube.com/@CaseyZeman
 
 He is the founder and CEO of the popular webinar platform, EasyWebinar, a software that does both live and automated webinars. Having had more than 14k customers come through his courses and software, 
@@ -11,7 +11,7 @@ Where content focuses on the platform along with how beneficial webinars actuall
 
 2. Steve J Larsen — Host, Sales Funnel Radio — https://www.youtube.com/@SteveJLarsen
 
-He is a prominent internet entrepreneur, marketing strategist, and public speaker known for his expertise in offer creation, building sales funnels, and scaling businesses. He runs "Titans of Industry" where he helps entrepreneurs scale their sales online and he launched "Captalist Pig" a media company with the mission to increase America's Entrepreneurial IQ. His main selling point is that he is the "internet's marketing guru" and what makes his webinars stand out is that they actually work. After going through his webinars I realised what makes him standout is that he follows a very simple principal "Dramatic Demonstrations", a psychological framework that physically or conceptually proves a product's value in real-time. Rather than just telling an audience something works, he proves it live. He builds tension, shows the problem, and demonstrates the mechanism working to make conversions inevitable.
+He is a prominent internet entrepreneur, marketing strategist, and public speaker known for his expertise in offer creation, building sales funnels, and scaling businesses.
   
 3. Neil Patel — Digital marketer, frequent live webinar trainer — https://www.youtube.com/@neilpatel
 
@@ -29,7 +29,7 @@ He is the author of “Million Dollar Coach” and creator of the Marketing Syst
 
 His strategy is he frames sales and webinars in a way to solve problems, rather than just "selling." His techniques aim to make your target audience actually thank you for allowing them to buy instead of the other way around.
 
-## LinkedIn-primary (collect posts)
+## LinkedIn
 7. Oana Manolache — Founder & CEO, Sequel.io — https://www.linkedin.com/in/oana-m-manolache/
 8. Davide Grieco — Growth, Clay — https://www.linkedin.com/in/davidegrieco/
 9. Ian Faison — CEO, Caspian Studios — https://www.linkedin.com/in/ianfaison/
